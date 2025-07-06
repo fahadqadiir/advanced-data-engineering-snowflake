@@ -69,7 +69,7 @@ CREATE TABLE {{env}}_tasty_bytes.raw_pos.country
 );
 --fahadqadir
 --f
-
+--yes
 -- franchise table build
 CREATE OR ALTER TABLE {{env}}_tasty_bytes.raw_pos.franchise
 (
