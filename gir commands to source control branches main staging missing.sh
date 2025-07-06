@@ -1,19 +1,19 @@
-git fetch
+# git fetch
 
-git switch missingf --switch to newly created branch
+# git switch missingf --switch to newly created branch
 
-git branch --you are in the new selected branch
+# git branch --you are in the new selected branch
 
---now made changes in your code.
+# --now made changes in your code.
 
-git status --present which file is modified
+# git status --present which file is modified
+# --after made changes please run git add -p
+# git add -p
+# press 'y' to stage the changes you want to commit
 
-git add -p
-press 'y' to stage the changes you want to commit
 
+# git commit -m "missingf" -- your branch name where you made changes
 
-git commit -m "missingf" -- your branch name where you made changes
+# git push origin missingf  --set-upstream origin missingf --push the changes to remote branch
 
-git push origin missingf  --set-upstream origin missingf --push the changes to remote branch
-
-select correct github account or add other account as collaborator
+# select correct github account or add other account as collaborator
