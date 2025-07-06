@@ -67,7 +67,7 @@ CREATE TABLE {{env}}_tasty_bytes.raw_pos.country
    city_population VARCHAR(16777216),
    city_id NUMBER(19,0)
 );
-
+--fahad
 
 -- franchise table build
 CREATE OR ALTER TABLE {{env}}_tasty_bytes.raw_pos.franchise
